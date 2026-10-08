@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "flow": "direct backing and repeated-ticket ceiling",
+      "blockedStatus": 400
+    },
+    {
+      "flow": "income run, portfolio delta",
+      "cents": 90
+    },
+    {
+      "flow": "equity listing and purchase",
+      "projectId": 13
+    },
+    {
+      "flow": "NDA generated and simulated review requested"
+    },
+    {
+      "flow": "grace and cure; early default and foreclosure blocked",
+      "statuses": [
+        400,
+        400
+      ]
+    },
+    {
+      "flow": "private scores, minimal directory, no duplicate task rewards"
+    }
+  ],
+  "browserErrors": []
+}

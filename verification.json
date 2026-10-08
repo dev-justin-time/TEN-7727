@@ -1,0 +1,240 @@
+{
+  "results": [
+    {
+      "flow": "join",
+      "memberId": 12
+    },
+    {
+      "flow": "draw yes, bye, no repeat, weekly cap",
+      "rounds": [
+        "BENCH PULL \u2014 OPEN TORQUE RIG",
+        "ROOM TONE",
+        "QA MILESTONE WORKSHOP"
+      ]
+    },
+    {
+      "flow": "pitch form filled",
+      "buttons": [
+        "low",
+        "medium",
+        "high",
+        "Pay and go live",
+        "Sign out @qa_1791220611"
+      ]
+    },
+    {
+      "flow": "pitch created",
+      "projectId": 13
+    },
+    {
+      "flow": "milestone submission and admin approval",
+      "projectId": 13
+    },
+    {
+      "route": "/",
+      "heading": [
+        "Back an idea. Ten dollars at a time."
+      ]
+    },
+    {
+      "route": "/join",
+      "heading": [
+        "Get a passport"
+      ]
+    },
+    {
+      "route": "/forge",
+      "heading": [
+        "One card. Yes or bye."
+      ]
+    },
+    {
+      "route": "/forge/pitch",
+      "heading": [
+        "Pitch anything legal"
+      ]
+    },
+    {
+      "route": "/forge/project/13",
+      "heading": [
+        "QA workshop qa_1791220611"
+      ]
+    },
+    {
+      "route": "/projects",
+      "heading": [
+        "Every open book"
+      ]
+    },
+    {
+      "route": "/portfolio",
+      "heading": [
+        "What you own"
+      ]
+    },
+    {
+      "route": "/studio",
+      "heading": [
+        "Your rounds"
+      ]
+    },
+    {
+      "route": "/exchange",
+      "heading": [
+        "Points and equity, priced by people"
+      ]
+    },
+    {
+      "route": "/ipdesk",
+      "heading": [
+        "Protect the work"
+      ]
+    },
+    {
+      "route": "/scores",
+      "heading": [
+        "Your file"
+      ]
+    },
+    {
+      "route": "/house",
+      "heading": [
+        "The open books"
+      ]
+    },
+    {
+      "route": "/hub",
+      "heading": [
+        "Build the commons"
+      ]
+    },
+    {
+      "route": "/compliance",
+      "heading": [
+        "The path to real"
+      ]
+    },
+    {
+      "route": "/sole",
+      "heading": [
+        "Wear your own lane"
+      ]
+    },
+    {
+      "route": "/orbital",
+      "heading": [
+        "Evidence before orbit"
+      ]
+    },
+    {
+      "route": "/not-a-room",
+      "heading": [
+        "Off the map"
+      ]
+    },
+    {
+      "theme": "underground",
+      "mobileOverflow": false
+    },
+    {
+      "theme": "lab",
+      "mobileOverflow": false
+    },
+    {
+      "theme": "prestige",
+      "mobileOverflow": false
+    }
+  ],
+  "browserErrors": [],
+  "operationalLogs": [
+    "[kinship:navigation] 2026-10-05T17:16:50.299Z Page opened {path: /join}",
+    "[kinship:navigation] 2026-10-05T17:16:50.306Z Page opened {path: /join}",
+    "[kinship:mutation] 2026-10-05T17:16:51.212Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:51.490Z Completed [Array(2), Object]",
+    "[kinship:session] 2026-10-05T17:16:51.574Z Demo passport switched {memberId: 12}",
+    "[kinship:navigation] 2026-10-05T17:16:51.582Z Page opened {path: /forge}",
+    "[kinship:mutation] 2026-10-05T17:16:51.940Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:52.377Z Completed [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:53.309Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:54.460Z Completed [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:55.172Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:55.623Z Completed [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:56.506Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:56.847Z Completed [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:57.322Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:57.761Z Completed [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:58.639Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:16:58.987Z Completed [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:16:59.680Z Page opened {path: /portfolio}",
+    "[kinship:navigation] 2026-10-05T17:16:59.683Z Page opened {path: /portfolio}",
+    "[kinship:mutation] 2026-10-05T17:17:00.673Z Requested [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:00.880Z Page opened {path: /forge/pitch}",
+    "[kinship:navigation] 2026-10-05T17:17:00.884Z Page opened {path: /forge/pitch}",
+    "[kinship:mutation] 2026-10-05T17:17:01.940Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:17:02.893Z Completed [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:02.979Z Page opened {path: /forge/project/13}",
+    "[kinship:navigation] 2026-10-05T17:17:03.199Z Page opened {path: /studio}",
+    "[kinship:navigation] 2026-10-05T17:17:03.204Z Page opened {path: /studio}",
+    "[kinship:mutation] 2026-10-05T17:17:04.092Z Requested [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:04.305Z Page opened {path: /studio}",
+    "[kinship:navigation] 2026-10-05T17:17:04.308Z Page opened {path: /studio}",
+    "[kinship:navigation] 2026-10-05T17:17:05.216Z Page opened {path: /house}",
+    "[kinship:navigation] 2026-10-05T17:17:05.218Z Page opened {path: /house}",
+    "[kinship:mutation] 2026-10-05T17:17:06.709Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:17:07.515Z Completed [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:08.559Z Page opened {path: /forge/project/13}",
+    "[kinship:navigation] 2026-10-05T17:17:08.565Z Page opened {path: /forge/project/13}",
+    "[kinship:navigation] 2026-10-05T17:17:09.552Z Page opened {path: /}",
+    "[kinship:navigation] 2026-10-05T17:17:09.554Z Page opened {path: /}",
+    "[kinship:navigation] 2026-10-05T17:17:10.656Z Page opened {path: /join}",
+    "[kinship:navigation] 2026-10-05T17:17:10.658Z Page opened {path: /join}",
+    "[kinship:navigation] 2026-10-05T17:17:11.469Z Page opened {path: /forge}",
+    "[kinship:navigation] 2026-10-05T17:17:11.472Z Page opened {path: /forge}",
+    "[kinship:navigation] 2026-10-05T17:17:12.489Z Page opened {path: /forge/pitch}",
+    "[kinship:navigation] 2026-10-05T17:17:12.493Z Page opened {path: /forge/pitch}",
+    "[kinship:navigation] 2026-10-05T17:17:13.329Z Page opened {path: /forge/project/13}",
+    "[kinship:navigation] 2026-10-05T17:17:13.334Z Page opened {path: /forge/project/13}",
+    "[kinship:navigation] 2026-10-05T17:17:14.276Z Page opened {path: /projects}",
+    "[kinship:navigation] 2026-10-05T17:17:14.278Z Page opened {path: /projects}",
+    "[kinship:navigation] 2026-10-05T17:17:15.182Z Page opened {path: /portfolio}",
+    "[kinship:navigation] 2026-10-05T17:17:15.185Z Page opened {path: /portfolio}",
+    "[kinship:navigation] 2026-10-05T17:17:16.276Z Page opened {path: /studio}",
+    "[kinship:navigation] 2026-10-05T17:17:16.281Z Page opened {path: /studio}",
+    "[kinship:navigation] 2026-10-05T17:17:17.231Z Page opened {path: /exchange}",
+    "[kinship:navigation] 2026-10-05T17:17:17.235Z Page opened {path: /exchange}",
+    "[kinship:navigation] 2026-10-05T17:17:18.179Z Page opened {path: /ipdesk}",
+    "[kinship:navigation] 2026-10-05T17:17:18.182Z Page opened {path: /ipdesk}",
+    "[kinship:navigation] 2026-10-05T17:17:19.105Z Page opened {path: /scores}",
+    "[kinship:navigation] 2026-10-05T17:17:19.109Z Page opened {path: /scores}",
+    "[kinship:navigation] 2026-10-05T17:17:20.253Z Page opened {path: /house}",
+    "[kinship:navigation] 2026-10-05T17:17:20.256Z Page opened {path: /house}",
+    "[kinship:navigation] 2026-10-05T17:17:21.591Z Page opened {path: /hub}",
+    "[kinship:navigation] 2026-10-05T17:17:21.593Z Page opened {path: /hub}",
+    "[kinship:navigation] 2026-10-05T17:17:22.490Z Page opened {path: /compliance}",
+    "[kinship:navigation] 2026-10-05T17:17:22.492Z Page opened {path: /compliance}",
+    "[kinship:navigation] 2026-10-05T17:17:23.281Z Page opened {path: /sole}",
+    "[kinship:navigation] 2026-10-05T17:17:23.282Z Page opened {path: /sole}",
+    "[kinship:navigation] 2026-10-05T17:17:24.160Z Page opened {path: /orbital}",
+    "[kinship:navigation] 2026-10-05T17:17:24.162Z Page opened {path: /orbital}",
+    "[kinship:navigation] 2026-10-05T17:17:25.143Z Page opened {path: /not-a-room}",
+    "[kinship:navigation] 2026-10-05T17:17:25.154Z Page opened {path: /not-a-room}",
+    "[kinship:navigation] 2026-10-05T17:17:25.962Z Page opened {path: /}",
+    "[kinship:navigation] 2026-10-05T17:17:25.967Z Page opened {path: /}",
+    "[kinship:theme] 2026-10-05T17:17:26.845Z Visual world selected {world: underground}",
+    "[kinship:mutation] 2026-10-05T17:17:26.846Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:17:27.005Z Completed [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:27.165Z Page opened {path: /hub}",
+    "[kinship:navigation] 2026-10-05T17:17:27.493Z Page opened {path: /}",
+    "[kinship:navigation] 2026-10-05T17:17:27.496Z Page opened {path: /}",
+    "[kinship:theme] 2026-10-05T17:17:28.388Z Visual world selected {world: lab}",
+    "[kinship:mutation] 2026-10-05T17:17:28.389Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:17:28.560Z Completed [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:28.682Z Page opened {path: /hub}",
+    "[kinship:navigation] 2026-10-05T17:17:28.973Z Page opened {path: /}",
+    "[kinship:navigation] 2026-10-05T17:17:28.978Z Page opened {path: /}",
+    "[kinship:theme] 2026-10-05T17:17:29.852Z Visual world selected {world: prestige}",
+    "[kinship:mutation] 2026-10-05T17:17:29.853Z Requested [Array(2), Object]",
+    "[kinship:mutation] 2026-10-05T17:17:30.019Z Completed [Array(2), Object]",
+    "[kinship:navigation] 2026-10-05T17:17:30.149Z Page opened {path: /hub}"
+  ]
+}
